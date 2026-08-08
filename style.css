@@ -32,6 +32,12 @@
 
   --wrap: 1180px;
 }
+.hero-image {
+  width: 460px;
+  height: 420px;
+  object-fit: cover;
+  border-radius: 6px;
+}
 
 * { box-sizing: border-box; }
 html { scroll-behavior: smooth; }
